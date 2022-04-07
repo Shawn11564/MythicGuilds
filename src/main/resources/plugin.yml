@@ -1,0 +1,8 @@
+name: MythicGuilds
+version: '${project.version}'
+main: dev.mrshawn.mythicguilds.MythicGuilds
+api-version: 1.18
+prefix: MythicGuilds
+authors: [ MrShawn ]
+description: Create guilds, team up with friends, and battle your enemies
+website: https://mrshawn.dev/
